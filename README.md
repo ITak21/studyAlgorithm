@@ -5,3 +5,4 @@
 ##
 - [버블정렬](bubble_sort.java)
 - [선택정렬](selection_sort.java)
+- [삽입정렬](insertion_sort.java)
