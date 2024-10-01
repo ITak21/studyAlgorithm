@@ -7,3 +7,5 @@
 - [선택정렬](selection_sort.java)
 - [삽입정렬](insertion_sort.java)
 - [퀵정렬](quick_sort.java)
+- [합병정렬](merge_sort.java)
+
