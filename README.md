@@ -11,3 +11,4 @@
 - [힙정렬](heap_sort.java)
 - [기수정렬](radix_sort.java)
 - [계수정렬](counting_sort.java)
+- [이분탐색](binary_search.java)
